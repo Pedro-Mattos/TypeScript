@@ -1,6 +1,6 @@
 class Negociacao {
 
-    // declaração das propriedades de classe
+    // declaração das propriedades de classe e tipagem
 
     constructor(
         private _data: Date, 

@@ -1,5 +1,5 @@
 class Negociacao {
-    // declaração das propriedades de classe
+    // declaração das propriedades de classe e tipagem
     constructor(_data, _quantidade, _valor) {
         this._data = _data;
         this._quantidade = _quantidade;
