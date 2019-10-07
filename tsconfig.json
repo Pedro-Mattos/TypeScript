@@ -5,7 +5,8 @@
         //se emitir erro nao compila
         "noEmitOnError": true,
         //nao permite arquivos sem tipagem
-        "noImplicitAny": true
+        "noImplicitAny": true,
+        "removeComments": true
 
     },
     "include": [
